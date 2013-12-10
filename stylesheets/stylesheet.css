@@ -307,7 +307,13 @@ Full-Width Styles
   height: 70px;
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
-
+#homebutton {
+  color: white;
+  font-size: 20px;
+  width: 50;
+  height: 100;
+  border 0px solid white;
+}
 .zip_download_link {
   display: block;
   float: right;
